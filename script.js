@@ -53,12 +53,8 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Role entry validation"
         },
         {
-            src: "assets/14-main-menu-screenshot-1.png",
-            title: "Main menu screenshot 1"
-        },
-        {
             src: "assets/15-main-menu-screenshot-2.png",
-            title: "Main menu screenshot 2"
+            title: "Main menu screenshot"
         },
         {
             src: "assets/16-income-manager-configuration-in-cfms.png",
