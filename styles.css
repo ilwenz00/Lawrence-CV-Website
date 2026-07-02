@@ -1,9 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+button,
+input,
+textarea,
+select {
+    font-family: "Montserrat", Arial, Helvetica, sans-serif !important;
+}
+
 body {
     margin: 0;
     padding: 0;
     background: #f4f6f8;
     color: #222;
-    font-family: "Montserrat", Arial, Helvetica, sans-serif;
     line-height: 1.65;
     font-size: 15.5px;
 }
@@ -27,9 +41,9 @@ body {
 }
 
 .profile-photo {
-    width: 230px;
+    width: 190px;
     height: auto;
-    max-height: 300px;
+    max-height: 255px;
     object-fit: cover;
     object-position: center top;
     border-radius: 8px;
@@ -45,13 +59,14 @@ body {
     margin: 0 0 12px;
     color: #1f4e79;
     font-size: 2.15rem;
-    font-weight: 700;
+    font-weight: 800;
     text-align: left;
 }
 
 .header-text h2 {
     margin-bottom: 8px;
     text-align: left;
+    font-weight: 700;
 }
 
 .header-text p {
@@ -68,7 +83,7 @@ body {
     border-bottom: 1px solid #d7dde3;
     padding-bottom: 6px;
     margin-bottom: 18px;
-    font-weight: 700;
+    font-weight: 800;
     text-align: left;
 }
 
@@ -76,7 +91,7 @@ body {
     color: #244766;
     margin-top: 22px;
     margin-bottom: 6px;
-    font-weight: 600;
+    font-weight: 700;
     text-align: left;
 }
 
@@ -103,7 +118,7 @@ li {
 
 a {
     color: #1f4e79;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 a:hover {
@@ -208,8 +223,7 @@ a:hover {
     border-radius: 6px;
     padding: 7px 12px;
     cursor: pointer;
-    font-weight: 600;
-    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 700;
 }
 
 .pause-btn:hover {
@@ -251,8 +265,8 @@ a:hover {
     }
 
     .profile-photo {
-        width: 220px;
-        max-height: 300px;
+        width: 185px;
+        max-height: 250px;
     }
 
     .header-text h1,
