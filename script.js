@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             src: "assets/15-role-database-reference.png",
             title: "Role database reference"
-        }
+        },
         {
             src: "assets/16-income-manager-configuration-in-cfms.png",
             title: "Income Manager configuration in CFMS"
