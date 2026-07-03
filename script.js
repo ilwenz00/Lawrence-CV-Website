@@ -53,17 +53,17 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Role entry validation"
         },
         {
-            src: "assets/15-main-menu-screenshot-2.png",
+            src: "assets/14-main-menu-screenshot-2.png",
             title: "Main menu screenshot"
         },
         {
-            src: "assets/17-income-manager-configuration-in-cfms.png",
-            title: "Income Manager configuration in CFMS"
-        },
-        {
-            src: "assets/16-role-database-reference.png",
+            src: "assets/15-role-database-reference.png",
             title: "Role database reference"
         }
+        {
+            src: "assets/16-income-manager-configuration-in-cfms.png",
+            title: "Income Manager configuration in CFMS"
+        },
     ];
 
     let currentSlideIndex = 0;
