@@ -57,11 +57,11 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Main menu screenshot"
         },
         {
-            src: "assets/16-income-manager-configuration-in-cfms.png",
+            src: "assets/17-income-manager-configuration-in-cfms.png",
             title: "Income Manager configuration in CFMS"
         },
         {
-            src: "assets/17-role-database-reference.png",
+            src: "assets/16-role-database-reference.png",
             title: "Role database reference"
         }
     ];
